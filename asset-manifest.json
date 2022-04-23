@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/auto-car/static/css/main.82042112.chunk.css",
+    "main.js": "/auto-car/static/js/main.8649f61c.chunk.js",
+    "main.js.map": "/auto-car/static/js/main.8649f61c.chunk.js.map",
+    "runtime-main.js": "/auto-car/static/js/runtime-main.e60ead8e.js",
+    "runtime-main.js.map": "/auto-car/static/js/runtime-main.e60ead8e.js.map",
+    "static/css/2.2d63b397.chunk.css": "/auto-car/static/css/2.2d63b397.chunk.css",
+    "static/js/2.76a35f0c.chunk.js": "/auto-car/static/js/2.76a35f0c.chunk.js",
+    "static/js/2.76a35f0c.chunk.js.map": "/auto-car/static/js/2.76a35f0c.chunk.js.map",
+    "index.html": "/auto-car/index.html",
+    "static/css/2.2d63b397.chunk.css.map": "/auto-car/static/css/2.2d63b397.chunk.css.map",
+    "static/css/main.82042112.chunk.css.map": "/auto-car/static/css/main.82042112.chunk.css.map",
+    "static/js/2.76a35f0c.chunk.js.LICENSE.txt": "/auto-car/static/js/2.76a35f0c.chunk.js.LICENSE.txt",
+    "static/media/blob.f2195ec6.svg": "/auto-car/static/media/blob.f2195ec6.svg",
+    "static/media/jeep.18461d13.png": "/auto-car/static/media/jeep.18461d13.png",
+    "static/media/mclaren-orange-big.46e3c615.png": "/auto-car/static/media/mclaren-orange-big.46e3c615.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e60ead8e.js",
+    "static/css/2.2d63b397.chunk.css",
+    "static/js/2.76a35f0c.chunk.js",
+    "static/css/main.82042112.chunk.css",
+    "static/js/main.8649f61c.chunk.js"
+  ]
+}
